@@ -8,6 +8,7 @@ I work on tasks that involve:
 - Performing sentiment analysis and classification  
 - Checking and correcting data for quality (QA)  
 - Solving logical and mathematical problems  
+
 I enjoy working on detail-oriented tasks and maintaining high accuracy across repetitive workflows.
 
 Portfolio
