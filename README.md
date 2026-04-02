@@ -1,4 +1,4 @@
-Hi, I'm Wycliffe Abel 👋
+Hi, I'm Wycliffe Abel
 
 I’m an AI Data Annotation and Evaluation Specialist with a strong background in analytical thinking and structured problem-solving.
 
