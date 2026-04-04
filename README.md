@@ -11,6 +11,13 @@ I work on tasks such as:
 
 I focus on accuracy, consistency, and following structured guidelines in AI training workflows.
 
+##  What I Bring
+
+- Consistent high accuracy in structured tasks  
+- Strong attention to detail  
+- Ability to follow strict guidelines  
+- Reliable performance in repetitive workflows 
+
 ---
 
 ##  Portfolio
@@ -24,9 +31,4 @@ I focus on accuracy, consistency, and following structured guidelines in AI trai
 Email: wabel4012@gmail.com  
 LinkedIn: www.linkedin.com/in/wycliffe-abel-437120351
 
-## ✔ What I Bring
-
-- Consistent high accuracy in structured tasks  
-- Strong attention to detail  
-- Ability to follow strict guidelines  
-- Reliable performance in repetitive workflows  
+ 
